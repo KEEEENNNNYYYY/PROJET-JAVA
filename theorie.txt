@@ -1,0 +1,5 @@
+1-L’annotation @Override indique que nous voulons surcharger une méthode de la superclasse
+
+2-Le hachage permet une récupération rapide des données,redefinir la methode equams est souvent pour eviter que le hashcode de deux objets soient identiques
+
+3-polymorphisme static est une exemple de class avec le meme nom de methode avec "overloaded" avec des elements differents
